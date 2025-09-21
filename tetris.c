@@ -1,6 +1,6 @@
 #include "tetris.h"
 
-// Stores screen of height and width, equal to colour value.
+// Stores screen of height and width, where screen[i][j] is the color value at height i and width j.
 char screen[SCREEN_HEIGHT][SCREEN_WIDTH];
 
 // Global structs
