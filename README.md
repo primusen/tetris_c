@@ -1,5 +1,5 @@
 # Tetris in C
-This is a CLI Tetris clone made in C for Linux.
+This is a CLI Tetris clone made in C for Linux. Completed in ~30 hours.
 
 This was made for educational purposes in an attempt to familiarise myself with C.
 
